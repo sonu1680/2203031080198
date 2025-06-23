@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controller/createshorturl.ts","./src/controller/getlinkdetails.ts","./src/controller/redirecturl.ts","./src/db/index.ts","./src/lib/generateshortcode.ts","./src/route/linkroute.ts","./src/schema/history.ts","./src/schema/links.ts","./src/types/index.ts"],"version":"5.8.3"}
